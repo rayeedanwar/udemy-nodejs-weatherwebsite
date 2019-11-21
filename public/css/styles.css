@@ -40,6 +40,19 @@ header a {
     font-size: 24px;
 }
 
+a {
+    color: #888888;
+    text-decoration: none;
+}
+
+ul {
+    font-size: 12px;
+    color: black;
+    max-width: 315px;
+    text-align: left;
+    margin: 0 auto;
+}
+
 img {
     width: 200px;
     padding: 50px;
